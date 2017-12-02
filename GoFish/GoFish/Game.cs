@@ -46,7 +46,7 @@ namespace GoFish
             {
                 if (i == 0)
                 {
-                    players[i].AskForACard(players, i, stock, selectedPlayerCard);
+                    players[i].AskForACard(players, i, stock, sele);
                 }
                 else
                     players[i].AskForACard(players, i, stock);
