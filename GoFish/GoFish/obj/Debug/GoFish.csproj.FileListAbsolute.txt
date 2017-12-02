@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\GoFish\GoFish\bin\Debug\GoFish.exe.config
+C:\Users\Admin\source\repos\GoFish\GoFish\bin\Debug\GoFish.exe
+C:\Users\Admin\source\repos\GoFish\GoFish\bin\Debug\GoFish.pdb
+C:\Users\Admin\source\repos\GoFish\GoFish\obj\Debug\GoFish.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\GoFish\GoFish\obj\Debug\GoFish.Form1.resources
+C:\Users\Admin\source\repos\GoFish\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+C:\Users\Admin\source\repos\GoFish\GoFish\obj\Debug\GoFish.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\GoFish\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GoFish\GoFish\obj\Debug\GoFish.exe
+C:\Users\Admin\source\repos\GoFish\GoFish\obj\Debug\GoFish.pdb
