@@ -42,6 +42,15 @@ namespace GoFish
         }
         public bool PlayOneRound(int selectedPlayerCard)
         {
+            for(int i = 0; i < players.Count; i++)
+            {
+                if (i == 0)
+                {
+                    players[i].AskForACard(players, i, stock, selectedPlayerCard);
+                }
+                else
+                    players[i].AskForACard(players, i, stock);
+            }
 
             return true;
         }
